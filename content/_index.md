@@ -39,18 +39,18 @@ sections:
        If you're interested in collaborating or exchanging ideas, feel free to reach out! 😃 Let’s connect!
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
+#  - block: collection
+  #  id: papers
+  #  content:
+  #    title: Featured Publications
+   #   filters:
+   #     folders:
+   #       - publication
+  #     featured_only: true
+ #   design:
+ #     view: article-grid
+ #     columns: 2
+#  - block: collection
     content:
       title: Recent Publications
       text: ""
@@ -58,7 +58,7 @@ sections:
         folders:
           - publication
         exclude_featured: false
-    design:
+ #   design:
       view: citation
   - block: collection
     id: talks
@@ -67,10 +67,10 @@ sections:
       filters:
         folders:
           - event
-    design:
+#    design:
       view: article-grid
       columns: 1
-  - block: collection
+#  - block: collection
     id: news
     content:
       title: Recent News
