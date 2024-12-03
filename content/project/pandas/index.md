@@ -1,13 +1,10 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Separatism in India 
+date: 2024-09-01
+# external_link: https://github.com/pandas-dev/pandas
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - India Politics 
 ---
-
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+ upcoming PhD projects  
 
 <!--more-->
