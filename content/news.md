@@ -1,6 +1,5 @@
-
 ---
-title: 'News'
+title: 'Projects'
 date: 2024-05-19
 type: landing
 
@@ -13,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: Here is a selection of projects that I have worked on over the years.
+      text: Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
           - project
@@ -22,4 +21,3 @@ sections:
       fill_image: false
       columns: 3
 ---
-
