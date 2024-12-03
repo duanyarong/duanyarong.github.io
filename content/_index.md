@@ -51,31 +51,31 @@ sections:
  #     view: article-grid
  #     columns: 2
 #  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
+#    content:
+#      title: Recent Publications
+  #    text: ""
+  #    filters:
+   #     folders:
+  #        - publication
+  #      exclude_featured: false
  #   design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-#    design:
-      view: article-grid
-      columns: 1
+ #     view: citation
 #  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
+#    id: talks
+#    content:
+ #     title: Recent & Upcoming Talks
+#      filters:
+   #     folders:
+#          - event
+#    design:
+ #     view: article-grid
+#      columns: 1
+#  - block: collection
+#    id: news
+#    content:
+#      title: Recent News
+  #    subtitle: ''
+  #    text: ''
       # Page type to display. E.g. post, talk, publication...
      # page_type: post
       # Choose how many pages you would like to display (0 = all pages)
@@ -113,7 +113,7 @@ sections:
        #  From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
      #  button:
     #     text: Get Started
-    #     url: https://hugoblox.com/templates/
+    #  url: https://hugoblox.com/templates/
     # design:
    #    card:
     #     # Card background color (CSS class)
