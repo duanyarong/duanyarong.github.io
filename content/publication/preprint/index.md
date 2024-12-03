@@ -1,5 +1,7 @@
 ---
 title: "An example preprint / working paper"
+# to make this page unavaliable 
+draft: true
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
