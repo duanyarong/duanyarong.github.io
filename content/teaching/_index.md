@@ -14,7 +14,7 @@ sections:
     id: teaching
     content:
       title: Teaching&Tutoring
-    text: check out all the courses that I have delivered
+      text: check out all the courses that I have delivered
       filters:
         folders:
           - teaching
