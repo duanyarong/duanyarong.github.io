@@ -1,5 +1,7 @@
 ---
 title: "An example journal article"
+# to make this page unavailable 
+draft: true
 authors:
 - admin
 - Robert Ford
