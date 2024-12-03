@@ -73,40 +73,40 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+  - area: B.A. in Diplomacy & English Literature
+    institution: Beijing Foreign Studies University
+    date_start: 2017-09-01
+    date_end: 2021-06-01
+   # summary: |
+   #   GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+   #    Courses included:
+   #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+   #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Academic Tutor
+    company_name: Peking University
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    date_start: 2022-09-01
+    date_end: 2023-06-01
+  #  summary: |2-
+  #    Responsibilities include:
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+   #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Research Assistant
+    company_name: National Development and Reform Commission
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-07-01
+    date_end: 2021-11-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Led and published the report "Research on the Participation of Private Enterprises in International Competition under the New Situation" with colleagues. 
+      - Conducted long-term research on the internal conflict in Afghanistan, Sino-Australian economic sanctions, Sino-U.S. relations, Chinese overseas gas investment, and Sino-Indian relations.
+     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -115,11 +115,11 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 20
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+    #  - name: Data Science
+    #    description: ''
+    #    percent: 100
         icon: chart-bar
       - name: SQL
         description: ''
