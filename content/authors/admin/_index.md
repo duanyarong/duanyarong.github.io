@@ -44,7 +44,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
  # - icon: academicons/orcid
-  #  url: https://orcid.org/
+ #  url: https://orcid.org/
 
 interests:
   - India Politics
