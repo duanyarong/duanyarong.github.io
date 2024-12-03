@@ -1,6 +1,8 @@
 ---
 title: scikit-learn
 date: 2023-10-26
+# to make this page unavaliable 
+draft: true
 external_link: https://github.com/scikit-learn/scikit-learn
 tags:
   - Hugo
