@@ -1,7 +1,6 @@
 ---
 title: Publications
 cms_exclude: true
-#to make this page unavaliable 
 
 # View.
 view: citation
