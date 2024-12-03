@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: "#191970"
+  color: "dark blue"
 
 # SEO
 marketing:
