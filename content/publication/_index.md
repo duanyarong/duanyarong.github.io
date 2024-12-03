@@ -1,8 +1,7 @@
 ---
 title: Publications
 cms_exclude: true
-# to make this page unavaliable 
-draft: true
+#to make this page unavaliable 
 
 # View.
 view: citation
@@ -11,4 +10,5 @@ view: citation
 banner:
   caption: ''
   image: ''
+
 ---
