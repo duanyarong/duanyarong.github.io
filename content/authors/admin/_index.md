@@ -46,7 +46,7 @@ profiles:
  # - icon: academicons/orcid
   #  url: https://orcid.org/
 
-Research Interests:
+interests:
   - India Politics
   - Ethnic Conflicts
   - Border Politics
