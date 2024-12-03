@@ -35,11 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+       I'm currently researching separatism in India, diving into the political, social, and cultural factors that fuel regional separatist movements. I explore the historical context of these movements, including colonial legacies and regional inequalities, while looking at the role of identity politics, political mobilization, and state responses. My work also links separatist demands to broader issues of social justice, inequality, and cultural recognition, aiming to shed light on the complexities of nationalism and regional autonomy in India’s diverse society.
+       If you're interested in collaborating or exchanging ideas, feel free to reach out! 😃 Let’s connect!
     design:
       columns: '1'
   - block: collection
