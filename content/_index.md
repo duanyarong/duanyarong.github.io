@@ -39,7 +39,7 @@ sections:
        If you're interested in collaborating or exchanging ideas, feel free to reach out! 😃 Let’s connect!
     design:
       columns: '1'
-#  - block: collection
+ - block: collection
   #  id: papers
   #  content:
   #    title: Featured Publications
