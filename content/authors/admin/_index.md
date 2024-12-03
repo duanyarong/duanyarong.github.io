@@ -67,6 +67,7 @@ education:
     date_end: 2024-06-01
     summary: |
       Thesis on The History of the United Liberation Front of Assam. Supervised by [Prof Xuemei Qian](https://en.iiss.pku.edu.cn/Fellows/Resident_Fellows/QIAN_Xuemei/Bio.htm). 
+    button:
     #  GPA: 3.8/4.0
 
     #  Courses included:
