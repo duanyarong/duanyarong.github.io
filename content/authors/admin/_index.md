@@ -55,7 +55,7 @@ education:
   - area: PhD Political Science
     institution: Victoria University of Wellington
     date_start: 2024-09-01
-    date_end: present
+    date_end: null
     summary: |
       Thesis on Separatism in India. Supervised by [Prof Manjeet S. Pardesi](https://people.wgtn.ac.nz/manjeet.pardesi). 
     button:
