@@ -3,7 +3,7 @@
 title: Yarong Duan
 
 # Name pronunciation (optional)
-name_pronunciation: 段雅蓉
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Yarong
@@ -11,7 +11,7 @@ last_name: Duan
 
 # Status emoji
 # status:
-  # icon: ☕️
+  # icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -155,7 +155,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
- awards:
+awards:
   - title: China Scholarships Council (CSC) / Victoria University Scholarship
 #    url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2024-5-25'
