@@ -40,16 +40,16 @@ profiles:
   - icon: brands/github
     url: https://github.com/duanyarong
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/yarong-duan-176615328/
+    url: https://www.linkedin.com/in/yarong-duan-b4a87333b/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
  # - icon: academicons/orcid
   #  url: https://orcid.org/
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+Research Interests:
+  - India Politics
+  - Ethnic Conflicts
+  - Border Politics
 
 education:
   - area: PhD Artificial Intelligence
