@@ -158,7 +158,7 @@ languages:
 awards:
   - title: China Scholarships Council (CSC) / Victoria University Scholarship
 #    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2024-5-25'
+    date: '2024-05-25'
  #   awarder: Coursera
 #    icon: coursera
     summary: |
