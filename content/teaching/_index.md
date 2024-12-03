@@ -1,5 +1,5 @@
 ---
-title: Teaching&Tutoring
+title: Teaching
 summary: My courses
 type: landing
 
@@ -13,7 +13,8 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: Teaching&Tutoring
+    text: check out all the courses that I have delivered
       filters:
         folders:
           - teaching
